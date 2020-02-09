@@ -1,0 +1,89 @@
+[33mcommit dc5b5c2b95e8a510710a64abd0da761262fd99a1[m
+Author: lyc <i@funlee.cn>
+Date:   Mon Mar 18 00:05:51 2019 +0800
+
+    Update README.md
+
+[33mcommit 37248c04af29f672b6009b80c4314fbee5ba9c01[m
+Author: lyc <i@funlee.cn>
+Date:   Thu Feb 21 10:21:45 2019 +0800
+
+    Update README.md
+
+[33mcommit d592c4d121c59583b3135d4fd614bbe0c1c373e4[m
+Author: funlee <i@funlee.cn>
+Date:   Tue May 1 20:57:32 2018 +0800
+
+    change
+
+[33mcommit 4492646b828a042c92f1facc67ed138a4ef4e13c[m
+Author: funlee <i@funlee.cn>
+Date:   Mon Jan 1 20:13:18 2018 +0800
+
+    Update README.md
+
+[33mcommit dd6fefedb78ef8e64cf0af259d361e5020327c5c[m
+Author: funlee <i@funlee.cn>
+Date:   Mon Jan 1 20:09:52 2018 +0800
+
+    Update README.md
+
+[33mcommit b618607b0a1b868d73d000f5a23986a33884270a[m
+Author: funlee <i@funlee.cn>
+Date:   Mon Jan 1 19:39:27 2018 +0800
+
+    先就这样吧
+
+[33mcommit 3f48713d502b73a8a06e6df10063e866fae02a8e[m
+Author: funlee <i@funlee.cn>
+Date:   Sun Dec 31 15:34:45 2017 +0800
+
+    map
+
+[33mcommit 9bfe7712dbb14b03d654db08dfb3ed3cb676adea[m
+Author: funlee <i@funlee.cn>
+Date:   Sat Dec 30 23:45:01 2017 +0800
+
+    props
+
+[33mcommit 1f977301d8285668e6ebeae2f9abfa15d5e51d47[m
+Author: funlee <i@funlee.cn>
+Date:   Fri Dec 29 22:40:42 2017 +0800
+
+    drop down
+
+[33mcommit f8b5a79fbc84e4e6f975972c7ef40f26681839db[m
+Author: funlee <i@funlee.cn>
+Date:   Fri Dec 29 22:17:16 2017 +0800
+
+    drop down
+
+[33mcommit 378a5d76ca854679b096de8fed13020cc3ab1c2e[m
+Author: funlee <i@funlee.cn>
+Date:   Wed Dec 27 23:33:15 2017 +0800
+
+    完成第一个页面
+
+[33mcommit edf2e562af9a1ac7c1f356fc42ce57316ff81f00[m
+Author: funlee <i@funlee.cn>
+Date:   Wed Dec 27 18:26:25 2017 +0800
+
+    添加eslint 完成柱状图绘制
+
+[33mcommit 5783ba1818beb984f46a97be5727bc218c82fb23[m
+Author: funlee <i@funlee.cn>
+Date:   Tue Dec 26 23:58:45 2017 +0800
+
+    开始绘图了
+
+[33mcommit 79af2fc97bb91c4cf0d6a30a4489dbfe4afcef6e[m
+Author: funlee <i@funlee.cn>
+Date:   Tue Dec 26 00:31:25 2017 +0800
+
+    完成页面结构搭建
+
+[33mcommit c31636cde68708ea54b7514e2c45e28ed96e101d[m
+Author: funlee <i@funlee.cn>
+Date:   Mon Dec 18 17:59:13 2017 +0800
+
+    初始化页面布局
